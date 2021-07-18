@@ -1,0 +1,13 @@
+{
+	"data": [
+		{
+			"id": "some-id-1",
+			"email": "admin@test.com",
+			"password": "some-password"
+		}, {
+			"id": "some-id-2",
+			"email": "info@test.com",
+			"password": "other-password"
+		}
+	]
+}

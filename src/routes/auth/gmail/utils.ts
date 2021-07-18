@@ -1,0 +1,3 @@
+// This should be in .env...
+export const clientId =
+  '118401269204-fep12idu3gat7kgdqo7d1v2g27snuu2g.apps.googleusercontent.com';
